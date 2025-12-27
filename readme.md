@@ -1,3 +1,10 @@
+# Dan Vu strating to using this repo
+
+
+
+
+--------------------------------------------------------------------------
+# From Cao Doanh (Author):
 # 🧠 Low-Code Quantized InceptionNet Inference for ECG Classification
 
 This repository provides a **NumPy-only implementation** of the inference pipeline for a pre-trained **Quantized InceptionNet** model used for **ECG classification**. The model is quantized using **8-bit integer precision (int8)** and follows the structure and behavior of a TensorFlow Lite model, but without requiring TensorFlow at all.
